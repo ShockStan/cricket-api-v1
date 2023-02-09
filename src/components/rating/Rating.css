@@ -1,0 +1,10 @@
+.cricket-image-rating{
+    height: 60vh;
+    border: 1px solid gold;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.cricket-image-rating > img {
+    height: 100%;
+    width: 100%;
+}
